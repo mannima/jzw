@@ -1,0 +1,376 @@
+/*首页查询*/
+/*头部*/
+@media screen and (max-width: 1199px){
+	.headerWrap{
+		height: 60px;
+		line-height: 60px;
+	}
+	.headerWrap header .hea_left{
+		width: 100%;
+		float: left;
+	}
+}
+
+/*轮播图*/
+@media screen and(max-width:1199px){
+	.bannerWrap{
+		background: #2a84ff;
+	}
+}
+@media screen and(max-width:767px){
+	.bannerWrap{
+		height: 500px;
+		background-position: center -380px;
+	}
+}
+
+
+
+/*我们的产品*/
+@media screen and (max-width:967px){
+	.productWrap{
+		padding:60px 0;
+	}
+	.productWrap .product .container .top{
+		margin-bottom: 30px;
+	}
+	.productWrap .product .container .top h3{
+		font-size: 25px;
+	}
+}
+@media screen and (max-width:767px){
+	.productWrap{
+		padding:40px 0;
+	}
+}
+@media screen and (max-width:1199px){
+	.productWrap .product .container .rowFloid .product_container_con .list{
+		width: 50%;
+		float: left;
+	}
+}
+@media screen and (max-width:479px){
+	.productWrap .product .container .rowFloid .product_container_con .list{
+		width: 100%;
+		float: left;
+	}
+}
+
+
+/*平台优势*/
+@media screen and (max-width:967px ){
+	.platrformAdvantage_wrap{
+		padding:60px 0;
+	}
+	.platrformAdvantage_wrap .waves_box{
+		display: none;
+	}
+	.platrformAdvantage_wrap .container .containerTop{
+		margin-bottom:30px;
+	}
+	.platrformAdvantage_wrap .container .containerTop h3{
+		font-size: 25px;
+	}
+}
+@media screen and (max-width:767px ){
+	.platrformAdvantage_wrap{
+		padding:40px 0;
+	}
+	.platrformAdvantage_wrap .platform_advantage_bg{
+		display: none;
+	}
+	.platrformAdvantage_wrap .container .containerBot{
+		margin-left: -25px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list{
+		margin: 0 0 30px 25px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief .brief_title{
+		font-size: 14px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief .brief_text{
+		font-size: 12px;
+	}
+}
+@media screen and (max-width:1199px ){
+	.platrformAdvantage_wrap .container .containerBot{
+		margin-left: 50px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list{
+		margin: 0 0 50px 50px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief{
+		padding-left: 20px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief .brief_title{
+		font-size: 16px;
+	}
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief .brief_text{
+		font-size: 13px;
+	}
+}
+@media screen and (max-width:1446px ){
+	.platrformAdvantage_wrap .container .containerBot .span4 .platform_advantage_list .platform_advantage_brief{
+		padding-left: 30px;
+	}
+}
+@media screen and (max-width:479px){
+	.platrformAdvantage_wrap .container .containerBot .span4{
+		width:100%;
+		float:left;
+	}
+}
+
+
+
+
+/*营销优势*/
+@media screen and (max-width: 739px){
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .span3:first-child img{
+		width: 88%;
+	}
+}
+
+@media screen and (max-width: 967px){
+	.marketingAdvantageWrap{
+		padding:60px 0;
+	}
+	.marketingAdvantageWrap .container .all_title2{
+		margin-bottom: 30px;
+	}
+	.marketingAdvantageWrap .container .all_title2 .title{
+		font-size: 25px;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content{
+		margin-left: -10px;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .marketing_advantage_list{
+		margin:0 0 10px 10px;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .marketing_advantage_list .marketing_advantage_brief{
+		padding: 0 15px;
+		top: 15%;
+	}
+
+}
+@media screen and (max-width: 767px){
+	.marketingAdvantageWrap{
+		padding:40px 0;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .col-sm-6{
+		width: 50%;
+		float: left;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .marketing_advantage_list{
+		margin:0 0 14px 10px;
+		background: #fff;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .span3:first-child .marketing_advantage_list{
+		background: #fff;
+		text-align: center;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .span3:first-child img{
+		width: 84%;
+	}
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .marketing_advantage_list .marketing_advantage_brief{
+		padding: 0 35px;
+		top: 30%;
+	}
+}
+
+
+@media screen and (max-width: 1199px){
+	.marketingAdvantageWrap .container .all_title2 .marketing_advantage_content .marketing_advantage_list .marketing_advantage_brief{
+		padding: 0 25px;
+	}
+
+}
+
+
+/*合作伙伴*/
+@media screen and (max-width: 767px){
+	.parentsWrap{
+		padding:40px 0;
+	}
+	.parentsWrap .container .parents_content .partners_content_list{
+		margin:10px 10px;
+	}
+}
+@media screen and (max-width: 967px){
+	.parentsWrap{
+		padding:60px 0;
+	}
+	.parentsWrap .container .all_title1{
+		margin-bottom:30px;
+	}
+	.parentsWrap .container .all_title1 .title{
+		font-size: 25px;
+	}
+
+}
+
+
+/*加盟金猪云*/
+@media screen and (max-width: 967px){
+	.join_in{
+		padding:60px 0;
+	}
+}
+@media screen and (max-width: 767px){
+	.join_in{
+		padding:40px 0;
+	}
+	.join_in .container .all_title1{
+		font-size: 30px;
+	}
+}
+
+/*新闻中心媒体查询*/
+@media screen and (max-width: 967px){
+	.newsCenter{
+		padding:60px 0;
+	}
+	.newsCenter .container .all_title1{
+		margin-bottom: 30px;
+	}
+	.newsCenter .container .all_title1 .title{
+		font-size: 25px;
+	}
+	.newsCenter .container .news_center_content{
+		margin-left: -10px;
+	}
+	.newsCenter .container .news_center_content .col-sm-12{
+		width:100%;
+	}
+	.newsCenter .container .news_center_content .col-sm-12 .newsCenter_list{
+		margin-left: 10px;
+	}
+	.newsCenter .container .news_center_content .col-sm-12 .newsCenter_list .newsCenter_list_title{
+		margin:15px 0;
+	}
+}
+
+/*底部媒体查询*/
+@media screen and (max-width: 967px){
+	.footer .rowFulid .span12 .container .footer_content{
+		margin-left:-20px;
+		padding:60px 0;
+	}
+	.footer .rowFulid .span12 .container .footer_content  .col-xm-12{
+		float:left;
+		width:100%;
+	}
+	.footer .rowFulid .span12 .container .footer_content .span4 .footer_list  .col-xm-12{
+		float:left;
+		width:100%;
+	}
+	.footer .rowFulid .span12 .container .footer_content .col-xm-6{
+		width:50%;
+		float: left;
+	}
+	.footer .rowFulid .span12 .container .footer_content .span4 .footer_list{
+		margin-left: 20px;
+	}
+	.footer .rowFulid .span12 .container .footer_content .span4 .footer_list .span6 .quick_navigation{
+		margin-bottom:20px;
+		padding-bottom:10px;
+		border-bottom:1px solid #2d2b2b;
+		padding-left:0;
+		text-align:center;
+	}
+	.footer .rowFulid .span12 .container .footer_content .span4 .footer_list .span6 .quick_navigation ul li{
+		display: inline-block;
+		margin:0 15px;
+	}
+	.footer .rowFulid .span12 .container .footer_content .span4 .footer_list .span6 .bottom_logo{
+		display: none;
+	}
+}
+
+
+/*经典应用媒体查询*/
+@media screen and (max-width:967px){
+	.bannerWrap{
+		padding:120px 0;
+	}
+	.case_show_content .case_show_list{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.case_show_brief .case_show_brief_title{
+		padding-right: 75px;
+	}
+	.case_show_brief .case_show_brief_pageviews{
+		margin-right:5px;
+	}
+	.case_show_brief .case_show_brief_text{
+		margin:10px 0 20px 0;
+		line-height: 1.5;
+		font-size: 12px;
+	}
+}
+@media screen and (max-width:767px){
+	.bannerWrap{
+		padding:80px 0;
+	}
+	.know_more{
+		padding:30px 0;
+	}
+	.case_show_content  .case_show_list{
+		padding-top: 30px;
+	}
+	.case_show_list .col-sm-12{
+		width: 100%;
+		float: left;
+	}
+	.span5 .case_show_brief{
+		margin:0;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+@media screen and (max-width:768px){
+	.case_show_content .case_show_list{
+		padding-bottom: 10px;
+	}
+	.case_show_brief .case_show_brief_title{
+		padding-right: 0;
+	}
+	.case_show_brief .case_show_brief_pageviews{
+		margin-right: 0;
+	    margin-top: 0;
+	    float: none;
+	}
+}
+@media screen and (max-width:960px){
+	.col-xm-6{
+		width: 50%;
+		float: left;
+	}
+}
+@media screen and (max-width:1199px){
+	.case_show_list{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.case_show_brief{
+		margin-left: 10px;
+	}
+	.case_show_brief_title{
+		padding-right:90px;
+	}
+	.case_show_brief_pageviews{
+		margin-right: 14px;
+	}
+	.case_show_brief_text{
+		margin:15px 10px 20px 0;
+		line-height: 1.8;
+	}
+}
+
+/*侧边栏*/
+@media screen and (max-width: 1199px){
+	body .aside{
+		display: none;
+	}
+}

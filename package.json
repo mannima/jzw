@@ -1,0 +1,22 @@
+{
+  "name": "jzw",
+  "version": "1.0.0",
+  "description": "金猪网",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannima/jzw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannima/jzw/issues"
+  },
+  "homepage": "https://github.com/mannima/jzw#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
